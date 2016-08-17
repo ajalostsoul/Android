@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Gesture-Test</string>
+    <string name="app_name">Intent</string>
     <string name="action_settings">Settings</string>
-    <string name="textres">I\'m having mood swings</string>
-    <string name="button_res">Use me</string>
+    <string name="title_activity_orange">OrangeActivity</string>
 </resources>
